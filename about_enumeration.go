@@ -11,8 +11,8 @@ func aboutEnumeration() {
 			concatenated += v
 		}
 
-		assert(concatenated == __string__) // for loops have a modern variation
-		assert(total == __int__)           // which offers both a value and an index
+		assert(concatenated == "hello world!") // for loops have a modern variation
+		assert(total == 3)                     // which offers both a value and an index
 	}
 
 	{
