@@ -23,6 +23,6 @@ func aboutEnumeration() {
 			totalLength += len(v)
 		}
 
-		assert(totalLength == __int__) // although we may omit either value
+		assert(totalLength == 12) // although we may omit either value
 	}
 }
