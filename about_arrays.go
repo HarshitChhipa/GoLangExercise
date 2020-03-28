@@ -1,7 +1,5 @@
 package go_koans
-
 import "fmt"
-
 func aboutArrays() {
 	fruits := [4]string{"apple", "orange", "mango"}
 
